@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+body{
+	background:url(../image/first.jpg)no-repeat;
+	background-size: cover;
+}
+h1{
+	color:navy;
+	margin-left: 20px;
+}
